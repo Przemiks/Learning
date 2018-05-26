@@ -1,6 +1,6 @@
 What we have learn:
 1. Two-level menu
-2.
-3.
-4.
+2. Jumbotron
+3. Gradient
+4. Stars
 5.
