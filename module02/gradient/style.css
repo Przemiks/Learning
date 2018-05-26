@@ -1,0 +1,38 @@
+body {
+	margin-top: 50vh;
+	background-color: #191948;
+	text-align: center;
+}
+[class^="btn-"] {
+	display: inline-block;
+	margin: 10px 5px;
+	padding: 15px 30px;
+	min-width: 160px;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 10px;
+	cursor: pointer;
+	background-color: inherit;
+	transition: 0.4s;
+	background-position: 100% 0;
+	background-size: 300%;
+}
+[class^="btn-"]:hover {
+	background-position: 0 100%;
+	color: white;
+}
+.btn-red {
+	color: #ff0000;
+	background-image: linear-gradient(90deg, #ff0000 50%, transparent 50%);
+	border: 4px solid #ff0000;
+}
+.btn-green {
+	color: #11c338;
+	background-image: linear-gradient(135deg, #11c338 50%, transparent 50%);
+	border: 4px solid #11c338;
+}
+.btn-blue {
+	color: #1111c3;
+	background-image: linear-gradient(45deg, #1111c3 50%, transparent 50%);
+	border: 4px solid #1111c3;
+}
