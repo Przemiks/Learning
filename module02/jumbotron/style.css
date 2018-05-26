@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+* {
+    box-sizing:border-box;
+}
 .jumbotron {
 	width: 100%;
 	height: 100vh;
@@ -29,4 +32,12 @@
 }
 button:hover {
 	background-color: #7E9FED;
+}
+.gallery img {
+	float: left;
+	width: 25%;
+}
+.gallery img:hover {
+	opacity: 0.8;
+	cursor: pointer;
 }
