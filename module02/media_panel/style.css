@@ -1,0 +1,81 @@
+h2 {
+	color: #505050;
+	font-size: 40px;
+}
+
+.social {
+	margin: 0 auto;
+	width: 500px;
+	text-align: center;
+	padding: 50px;
+}
+
+[class^="icon-btn-"] {
+	width: 75px;
+	height: 75px;
+	border: none;
+	color: #FFFFFF;
+	border-radius: 50px;
+	margin: 0 auto;
+	cursor: pointer;
+	font-size: 40px;
+}
+
+[class^="icon-btn-"]:hover {
+	transform: scale(1.10);
+	color: #FFFFFF;
+	transition-duration: 0.7s;
+}
+
+.icon-btn-twitter {
+	color: #4099FF;
+}
+
+.icon-btn-twitter:hover {
+	background-color: #4099FF;
+}
+
+.icon-btn-facebook {
+	color: #3B5998;
+}
+
+.icon-btn-facebook:hover {
+	background-color: #3B5998;
+}
+
+.icon-btn-google {
+	color: #DB5A3C;
+}
+
+.icon-btn-google:hover {
+	background-color: #DB5A3C;
+}
+
+.icon-btn-instagram {
+	color: #5C3D2E;
+}
+
+.icon-btn-instagram:hover {
+	background-color: #5C3D2E;
+}
+
+.icon-btn-github {
+	color: #4183C4;
+}
+
+.icon-btn-github:hover {
+	background-color: #4183C4;
+}
+
+button a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
