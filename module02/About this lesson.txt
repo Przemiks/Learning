@@ -3,4 +3,4 @@ What we have learn:
 2. Jumbotron
 3. Gradient
 4. Stars
-5.
+5. Media Panel
